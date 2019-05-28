@@ -1,4 +1,8 @@
-﻿using System;
+/*Andrea Bonafini
+*May 27,2019
+*Game of Life
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
